@@ -20,9 +20,18 @@ let return5=66;
 alert(return5);
 */
 
-const nameUser='Elina';
-nameUser='Ibraimova';
-alert(nameUser);
+let name1='Elina'
+
+let name2='Ibraimova'
+
+alert(name2)
+
+
+
+
+
+
+
 
 //Однострочный комментарий -CTRL+/
 /*мнготрочный комментарий  CTRL+SHIFT+/ */
